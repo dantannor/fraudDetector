@@ -1,0 +1,12 @@
+{
+  "name": "risk",
+  "version": "1.0.0",
+  "description": "Write code that supports 2 operators, run sample_set through the rule: email from the ‘gmail.com’ domain AND total_spent greater than 100",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
